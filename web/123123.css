@@ -1,0 +1,114 @@
+body{
+	background-image: url('img/background.jpg');
+}
+.header{
+	background-color: gray;
+	width: 100%;
+	height: 150px;
+	margin: 0px auto;
+}
+.logo{
+	float: left;
+}
+ nav ul{
+ 	padding-top: 100px;
+ 	float: right;
+	text-align: right;
+	list-style-type: none;
+}
+nav li{
+  	padding-right :20px;
+  	float: left;
+  	font-size: 30px;
+}
+.a{
+	color: inherit;
+	text-decoration: none;
+}
+.banner{
+	padding-left: 15%;
+	width: 400px;
+}
+.me{
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 10px;
+	width: 50%;
+	margin-left: 15%;
+}
+.imformation{
+	background-color: rgba(255,255,255,0.6);
+	text-align: center;
+	border-radius: 10px;
+	font-size: 20px;
+	position: absolute;
+	margin-top: -32%;
+	margin-left: 66%;
+	margin-right: 15%;
+	z-index: 2;
+}
+.school{
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 10px;
+	width: 50%;
+	position: relative;
+	margin-left: 15%;
+}
+.work{
+	text-align: left;
+	background-color: rgba(255,255,255,0.6);
+	margin-left: 15%;
+	margin-right: 15%;
+	border-radius: 10px;
+
+}
+.goal{
+	text-align: left;
+	background-color: rgba(255,255,255,0.6);
+	margin-left: 15%;
+	margin-right: 15%;
+	border-radius: 10px;
+
+}
+.gif{
+	z-index: 2;
+	float: right;
+	margin: -240px;
+	margin-right: 300px;
+	height: 200px;
+	width: 200px;
+}
+.photo{
+	text-align: left;
+	background-color: rgba(255,255,255,0.6);
+	margin-left: 15%;
+	margin-right: 15%;
+	border-radius: 10px;
+
+}
+.h{
+	font-size: 50px;
+}
+.p{
+	font-size: 30px;
+}
+.photo1{
+	padding-left: 5%;
+	padding-right:5%;
+	width: 300px;
+	height: 300px;
+}
+.photo3{
+	width: 100%;
+	height: 100%;
+}
+.ig{
+	width: 50px;
+	height: 50px;
+}
+.footer{
+	background-color: rgba(255,255,255,0.6);
+	text-align: center;
+	color: black;
+	background-color: gray;
+	border-radius: 10px;
+}
